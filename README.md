@@ -3,7 +3,8 @@
 
 ## Screenshots
 
-- ![DynamoDB Table with sample records](TableScreenshot.png)  
+- ![DynamoDB Table with sample records](TableScreenshot.png)
+
 - ![Successful API requests](APIRequestsScreenshot.png)  
 
 ---
