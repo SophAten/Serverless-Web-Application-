@@ -23,7 +23,7 @@
   ### Create a Student (POST)
     curl -X POST "https://<your-invoke-url>/Development/students" \
     -H "Content-Type: application/json" \
-    -d '{"student_id":"123","name":"Soph Aten","course":"Enterprise Software"}'
+    -d '{"student_id":"123","name":"John Doe","course":"Enterprise Software"}'
   ### Retreieve a Student (GET)
     curl -X GET "https://<your-invoke-url>/Development/students?student_id=123"
 
